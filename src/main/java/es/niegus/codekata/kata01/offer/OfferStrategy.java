@@ -1,4 +1,6 @@
-package es.niegus.codekata.kata01;
+package es.niegus.codekata.kata01.offer;
+
+import es.niegus.codekata.kata01.shoppingcart.ShoppingCart;
 
 public abstract class OfferStrategy {
 

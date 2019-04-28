@@ -1,4 +1,4 @@
-package es.niegus.codekata.kata01;
+package es.niegus.codekata.kata01.product;
 
 import java.math.BigDecimal;
 
